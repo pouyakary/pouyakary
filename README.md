@@ -8,7 +8,7 @@ I don't think that even the dumbest of intelligence services or military labs wo
 
 For a company that talks on diversity, for a company that goes black for the black community, rainbow for the LGBTQ, isn't it disgusting that GitHub advertises publicity-seeking things like changing _master_ to _main_ and be this racist? 
 
-Shame on you. And please kindly fuck yourself GitHub ♥️
+Shame on you and fuck you GitHub ♥️
 
 Please if you are interested in my work, [please do visit my own git server](https://codes.kary.us). Love you guys. 
 
