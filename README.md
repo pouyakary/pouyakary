@@ -1,4 +1,4 @@
-<img src="https://inventory.kary.us/content/github/github.jpeg" width="320">
+# Dear GitHub, Fuck You 😘
 
 I am an Iranian&mdash;never choose to be, born as&mdash;and as a result, have always been under extreme discrimination in my life. I was born far after the Iranian revolution (something I had nothing to do with, and has made our lives a hell) but because of that I have always been counted as a terrorist. I mean you only wanna make pretty stuff and yet, one day you wake up seeing years of your work being locked. Why you ask? Because since you are an Iranian you automatically count for a weapon maker.
 
