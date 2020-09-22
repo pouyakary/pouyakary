@@ -4,7 +4,7 @@ I am an Iranian&mdash;never choose to be, born as&mdash;and as a result, have al
 
 > GitHub may not be used for purposes prohibited under applicable export control laws including purposes related to the development, production, or use of nuclear, biological or chemical weapons or long range missiles or unmanned aerial vehicles.
 
-I don't think that even the dumbest of intelligence services or military labs would ever put even their most obvious and stupid things on a service like GitHub. Imagine CIA putting their PRIZM program's asset in here. But okay, even for a second let's assume they are, so because you are an Iranian that makes you a weapon maker and terrorist? That is the most racist and offensive thing I have ever witnessed.
+I don't think that even the dumbest of intelligence services or military labs would ever put even their most obvious and stupid things on a service like GitHub. Imagine CIA putting their program assets in here. But okay, even for a second let's assume they are, so because you are an Iranian that makes you a weapon maker and terrorist? That is the most racist and offensive thing I have ever witnessed.
 
 For a company that talks on diversity, for a company that goes black for the black community, rainbow for the LGBTQ, isn't it disgusting that GitHub advertises publicity-seeking things like changing _master_ to _main_ and be this racist? 
 
