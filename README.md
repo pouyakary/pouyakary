@@ -1,1 +1,1 @@
-![VIII](https://github.com/pouyakary/pouyakary/assets/2157285/4fdacdb5-ac1a-4517-8d05-7fceb1b3ee68)
+![Pouya Kary's GitHub Banner](https://github.com/pouyakary/pouyakary/assets/2157285/d6a5d1fa-9631-4f82-9748-e917c9f82074)
