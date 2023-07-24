@@ -1,1 +1,1 @@
-![GitHub Header 256](https://github.com/pouyakary/pouyakary/assets/2157285/c847fe68-c61f-4b5c-89a2-e26879504ffd)
+![GitHub Header](https://github.com/pouyakary/pouyakary/assets/2157285/a9828cde-1d9a-455b-a74d-980d19285342)
