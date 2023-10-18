@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://eff.org">
-  <img height="75" src="https://github.com/pouyakary/pouyakary/assets/2157285/aa7aeaf6-7cd8-4596-9950-e6d3d08659bf">
+  <img height="45" src="https://github.com/pouyakary/pouyakary/assets/2157285/aa7aeaf6-7cd8-4596-9950-e6d3d08659bf">
 </a>
