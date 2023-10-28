@@ -6,10 +6,14 @@
   <tbody>  
   <tr>
     <td>
-      <img height="45" src="https://user-images.githubusercontent.com/2157285/276003683-69099bc6-03ba-42f7-8d67-a44a87f166e2.png" style="max-width: 100%;">
+      <a href="https://www.fsf.org">
+        <img height="45" src="https://user-images.githubusercontent.com/2157285/276003683-69099bc6-03ba-42f7-8d67-a44a87f166e2.png" style="max-width: 100%;">
+      </a>
     </td>
     <td>
-      <img height="100" src="https://user-images.githubusercontent.com/2157285/278803009-e4198e37-d0c4-4021-b7ec-6dbe43cbf06d.png" style="max-width: 100%;">
+      <a herf="https://www.eff.org/">
+        <img height="100" src="https://user-images.githubusercontent.com/2157285/278803009-e4198e37-d0c4-4021-b7ec-6dbe43cbf06d.png" style="max-width: 100%;">
+      </a>
     </td>
   </tr>
   </tbody>
