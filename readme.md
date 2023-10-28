@@ -11,7 +11,7 @@
       </a>
     </td>
     <td>
-      <a herf="https://www.eff.org/">
+      <a href="https://www.eff.org/">
         <img height="100" src="https://user-images.githubusercontent.com/2157285/278803009-e4198e37-d0c4-4021-b7ec-6dbe43cbf06d.png">
       </a>
     </td>
